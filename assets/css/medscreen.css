@@ -1,3 +1,8 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
 @media only screen and (max-width: 768px) {
   
         body {
@@ -278,6 +283,6 @@
           padding: 0px;
           position: fixed;
           left: 0;
-          bottom: 0;
-          
+          bottom: 0; 
       }
+    }

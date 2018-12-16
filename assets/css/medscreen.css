@@ -35,7 +35,7 @@
       
       .headerContainer {
           height: 65px;
-          width: 768px;
+          width: 100%;
           background-color: white;
           margin: 0 auto;
           padding: 0;
@@ -47,7 +47,7 @@
           background-color: #4aaaa5;
           color: white;
           padding: 14px;
-          margin: 0 -2% ;
+          margin: 0 ;
           width: 200px;
           text-align: center;
           display: inline-block;
@@ -96,7 +96,7 @@
           
           padding: 50px 20px 50px 20px;
           background-color: white;
-          width: 738px;
+          width: 600px;
           color: #777777;
           margin: 15px auto;
           overflow: auto;
@@ -281,4 +281,3 @@
           bottom: 0;
           
       }
-      

@@ -8,9 +8,10 @@
 
     background-image: url('../images/diagonal-squares.png');
     height: 100%;
-    margin-bottom: 100px;
+    width: 100%;
     min-height: 500px;
-    width: 85%;
+    margin: auto;
+   
     
   }
 
@@ -26,7 +27,7 @@
 
 .containerContainer{
     height: 65px;
-    width: 100%;
+    width: 415px;
     background-color: white;
     padding: 0;
     margin-bottom: 50px;
@@ -38,6 +39,8 @@
     padding-bottom:30px;
     margin-bottom: 20px;
     width: 100%;
+    
+   
 
     
 }
@@ -49,7 +52,7 @@
     margin: 0 -2% ;
     width: 100%;
     text-align: center;
-    display: inline-block;
+    /* display: inline-block; */
 
 
 }
@@ -59,15 +62,15 @@ a{
     text-decoration: none;
     text-align: center;
     height: 65px;
-    width: 600px;
-
-   
+    width: 400px;
+    
+    
    
 }
 
 .linkAbout{  
     border-right: #777777 1px solid;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 0;
 
    
@@ -75,13 +78,13 @@ a{
 
 .linkPortfolio{  
     border-right: #777777 1px solid;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 0;
 
 }
 
 .linkContact{  
-    text-align: center;
+    /* text-align: center; */
     margin-top: 0;
    
 }
@@ -90,12 +93,11 @@ a{
 
 .aboutMe {
     
-    
     background-color: white;
-    width: 80%;
     color: #777777;
     overflow: auto;
-    margin-top: 20px;
+    width: 85%;
+  
     
     
     
